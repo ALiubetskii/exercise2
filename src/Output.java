@@ -4,6 +4,9 @@ public class Output {
 
         Array array = new Array();
         array.initializationArray();
+        System.out.println();
+        array.higestValue();
+        array.average();
 
     }
 }
